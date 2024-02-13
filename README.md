@@ -1,3 +1,13 @@
+## Spotify Clone Application 
+### This app was created using these technologies
+- React
+- TypeScript
+- Tailwind
+- Next.Js
+- Used a Postgres DB via Supabase
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
